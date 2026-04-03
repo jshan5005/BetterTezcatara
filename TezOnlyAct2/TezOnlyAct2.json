@@ -1,0 +1,11 @@
+{
+  "id": "TezOnlyAct2",
+  "name": "TezOnlyAct2",
+  "author": "jshan",
+  "description": "Makes Tezcatara the only Act 2 Ancient.",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}
