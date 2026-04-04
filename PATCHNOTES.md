@@ -17,3 +17,14 @@ Pumpkin Candle:
 
 Toy Box:
 - "Upon pickup, obtain 4 Wax Relics. Every 3 combats, your left-most Wax Relic will melt away." -> "Upon pickup, obtain 4 Wax Relics. Every 3 Combats, your left-most Wax Relic will melt away."
+
+04/04/2026
+
+Nutritious Soup:
+- Tezcatara's Ember no longer gives double damage
+
+Toasty Mittens:
+- Now exhausts a random card from your hand at the end of the turn, and no longer gives 1 Dexterity
+
+Pumpkin Candle:
+- Duration extended to 8 combats
