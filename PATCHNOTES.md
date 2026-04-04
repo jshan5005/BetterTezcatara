@@ -16,4 +16,4 @@ Pumpkin Candle:
 - "Gain 1 Energy at the start of each turn. Extinguishes at the start of Act 3." -> "Gain 1 Energy at the start of each turn. Extinguishes after 5 combats. Can be re-lit at Rest Sites."
 
 Toy Box:
-- "Upon pickup, obtain [blue]{Relics}[/blue] [gold]Wax {Relics:plural:Relic|Relics}[/gold]. Every [blue]{Combats}[/blue] {Combats:plural:combat|combats}, your left-most [gold]Wax Relic[/gold] will melt away, healing you for [blue]10[/blue] HP."
+- "Upon pickup, obtain 4 Wax Relics. Every 3 combats, your left-most Wax Relic will melt away." -> "Upon pickup, obtain 4 Wax Relics. Every 3 Combats, your left-most Wax Relic will melt away."
