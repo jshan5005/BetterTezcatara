@@ -28,3 +28,10 @@ Toasty Mittens:
 
 Pumpkin Candle:
 - Duration extended to 8 combats
+
+04/10/2026
+
+Nutritious Soup:
+- Added back double damage
+
+Fixed issues with localization override so changes will now persist between branches/patches without messing with other stuff
