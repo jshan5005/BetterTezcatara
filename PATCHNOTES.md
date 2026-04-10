@@ -1,7 +1,7 @@
 04/03/2026
 
-Nutritious Soup:
-- Changed Tezcatara's Ember enchantment: "Costs 0 and gains Eternal." -> "Costs 0 and gains Exhaust and Eternal. Deals double damage."
+- Nutritious Soup:
+-- Changed Tezcatara's Ember enchantment: "Costs 0 and gains Eternal." -> "Costs 0 and gains Exhaust and Eternal. Deals double damage."
 
 Biiig Hug:
 - "Upon pickup, remove 4 cards from your Deck. Whenever you shuffle your Draw Pile, add a Soot to your Draw Pile." -> "Upon pickup, remove 4 cards from your Deck. Whenever you shuffle your Draw Pile, add a Soot to your Hand."
